@@ -39,9 +39,3 @@ Interactive map plotted using **Folium** to mark each area of NYC:
 - Red = Bad air
 
 ---
-
-##  How to Run
-
-1. Clone the repo  
-```bash
-git clone https://github.com/deepisalaniya/NYC-Air-Quality-Predictor.git
